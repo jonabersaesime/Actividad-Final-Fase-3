@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/jonab/Desktop/FASE_3_ACTIVIDAD_8_JDBS/mlruns/1/models/m-adcda112686c4032afcd7c634d00b207/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-adcda112686c4032afcd7c634d00b207
+model_size_bytes: 2017623
+model_uuid: m-adcda112686c4032afcd7c634d00b207
+prompts: null
+run_id: ecc87d0501bf4b6aade7a9a29cadb605
+utc_time_created: '2026-07-24 21:15:35.781887'
