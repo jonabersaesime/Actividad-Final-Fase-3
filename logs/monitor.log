@@ -67,3 +67,25 @@
 2026-07-24 22:41:22,003 | INFO | Evaluación de recall | Nivel: INFO | Valor: 0.9286
 2026-07-24 22:41:22,003 | INFO | Proceso de monitoreo finalizado correctamente.
 2026-07-24 22:41:22,041 | INFO | No se detectó Data Drift.
+2026-07-24 23:17:49,019 | INFO | Monitor de IA inicializado.
+2026-07-24 23:17:49,020 | INFO | Iniciando evaluación de métricas.
+2026-07-24 23:17:49,020 | INFO | Evaluación de recall | Nivel: INFO | Valor: 0.9286
+2026-07-24 23:17:49,020 | INFO | Proceso de monitoreo finalizado correctamente.
+2026-07-24 23:17:49,060 | INFO | No se detectó Data Drift.
+2026-07-24 23:18:54,587 | WARNING | Data Drift detectado en 'radius_mean' (p-value=0.00000)
+2026-07-24 23:18:54,643 | INFO | Se detectó posible Data Drift.
+2026-07-24 23:19:03,799 | WARNING | Data Drift detectado en 'radius_mean' (p-value=0.00000)
+2026-07-24 23:19:03,856 | INFO | Se detectó posible Data Drift.
+2026-07-24 23:19:08,344 | WARNING | Data Drift detectado en 'radius_mean' (p-value=0.00000)
+2026-07-24 23:19:08,402 | INFO | Se detectó posible Data Drift.
+2026-07-24 23:19:11,839 | WARNING | Data Drift detectado en 'radius_mean' (p-value=0.00002)
+2026-07-24 23:19:11,929 | INFO | Se detectó posible Data Drift.
+2026-07-24 23:19:17,168 | INFO | No se detectó Data Drift.
+2026-07-24 23:24:05,805 | INFO | Monitor de IA inicializado.
+2026-07-24 23:24:05,805 | INFO | Iniciando evaluación de métricas.
+2026-07-24 23:24:05,806 | INFO | Evaluación de recall | Nivel: INFO | Valor: 0.9286
+2026-07-24 23:24:05,806 | INFO | Proceso de monitoreo finalizado correctamente.
+2026-07-24 23:24:05,852 | INFO | No se detectó Data Drift.
+2026-07-24 23:49:29,697 | INFO | No se detectó Data Drift.
+2026-07-24 23:51:18,802 | WARNING | Data Drift detectado en 'radius_mean' (p-value=0.00000)
+2026-07-24 23:51:18,855 | INFO | Se detectó posible Data Drift.
