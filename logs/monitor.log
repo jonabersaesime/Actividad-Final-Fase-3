@@ -89,3 +89,6 @@
 2026-07-24 23:49:29,697 | INFO | No se detectó Data Drift.
 2026-07-24 23:51:18,802 | WARNING | Data Drift detectado en 'radius_mean' (p-value=0.00000)
 2026-07-24 23:51:18,855 | INFO | Se detectó posible Data Drift.
+2026-07-25 00:24:39,419 | INFO | No se detectó Data Drift.
+2026-07-25 00:32:43,628 | WARNING | Data Drift detectado en 'radius_mean' (p-value=0.00000)
+2026-07-25 00:32:43,660 | INFO | Se detectó posible Data Drift.
