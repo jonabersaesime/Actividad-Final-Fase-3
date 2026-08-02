@@ -3,11 +3,11 @@ name: AI MLOps Pipeline
 on:
   push:
     branches:
-      - main
+      - Actividad-Final-Fase-3
 
   pull_request:
     branches:
-      - main
+      - Actividad-Final-Fase-3
 
 jobs:
   build-and-test:
