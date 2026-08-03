@@ -1,10 +1,12 @@
 <div align="center">
 
-# 📊 Plataforma MLOps para Observabilidad,
-#    Monitoreo y Detección de Data Drift
+# 🚀 Plataforma MLOps para el Monitoreo, Observabilidad y Operación Continua de Modelos de Machine Learning
 
-### Observabilidad, Monitoreo, Alertas y Detección de Data Drift
+### Integración Continua • GitHub Actions • MLflow • Streamlit • Data Drift • Alertas • Runbooks
 
+</div>
+
+![Pipeline](https://github.com/jonabersaesime/Actividad-Final-Fase-3/actions/workflows/ci.yml/badge.svg?branch=Actividad-Final-Fase-3)
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-RandomForest-orange)
 ![MLflow](https://img.shields.io/badge/MLflow-Experiment%20Tracking-blue)
